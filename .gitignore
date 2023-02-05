@@ -17,3 +17,12 @@ convolution/cifar10/cifar-10-batches-py/data_batch_5
 convolution/cifar10/cifar-10-batches-py/readme.html
 convolution/cifar10/cifar-10-batches-py/test_batch
 convolution/cifar10/cifar-10-python.tar.gz
+CNNmilestone/data/cifar-10-python.tar.gz
+CNNmilestone/data/cifar-10-batches-py/test_batch
+CNNmilestone/data/cifar-10-batches-py/readme.html
+CNNmilestone/data/cifar-10-batches-py/batches.meta
+CNNmilestone/data/cifar-10-batches-py/data_batch_1
+CNNmilestone/data/cifar-10-batches-py/data_batch_2
+CNNmilestone/data/cifar-10-batches-py/data_batch_3
+CNNmilestone/data/cifar-10-batches-py/data_batch_4
+CNNmilestone/data/cifar-10-batches-py/data_batch_5
