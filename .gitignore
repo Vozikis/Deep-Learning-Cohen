@@ -42,3 +42,12 @@ transferlearning/data/stl10_binary/test_y.bin
 transferlearning/data/stl10_binary/train_X.bin
 transferlearning/data/stl10_binary/train_y.bin
 transferlearning/data/stl10_binary/unlabeled_X.bin
+transferlearning/data/cifar-10-batches-py/batches.meta
+transferlearning/data/cifar-10-batches-py/data_batch_1
+transferlearning/data/cifar-10-batches-py/data_batch_2
+transferlearning/data/cifar-10-batches-py/data_batch_3
+transferlearning/data/cifar-10-batches-py/data_batch_4
+transferlearning/data/cifar-10-batches-py/data_batch_5
+transferlearning/data/cifar-10-batches-py/readme.html
+transferlearning/data/cifar-10-batches-py/test_batch
+transferlearning/data/cifar-10-python.tar.gz
