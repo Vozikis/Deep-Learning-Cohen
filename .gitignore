@@ -57,3 +57,12 @@ GANs/data/FashionMNIST/raw/train-images-idx3-ubyte
 GANs/data/FashionMNIST/raw/train-labels-idx1-ubyte
 GANs/data/FashionMNIST/processed/training.pt
 GANs/data/FashionMNIST/processed/test.pt
+GANs/data/cifar-10-batches-py/batches.meta
+GANs/data/cifar-10-batches-py/data_batch_1
+GANs/data/cifar-10-batches-py/data_batch_2
+GANs/data/cifar-10-batches-py/data_batch_3
+GANs/data/cifar-10-batches-py/data_batch_4
+GANs/data/cifar-10-batches-py/data_batch_5
+GANs/data/cifar-10-batches-py/readme.html
+GANs/data/cifar-10-batches-py/test_batch
+GANs/data/cifar-10-python.tar.gz
